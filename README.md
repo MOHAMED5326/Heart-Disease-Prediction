@@ -28,4 +28,6 @@ An end-to-end Machine Learning project that predicts the risk of heart disease b
 2. Run the Streamlit app: `python -m streamlit run app.py`
 
 ---
+🚀 **Live Demo:** [Try the Heart Disease Prediction App](https://heart-disease-prediction-vqgyhxmn4yzhax9yrifc7x.streamlit.app)
+
 **Prepared by:** Mohamed Mahmoud Hemdan
